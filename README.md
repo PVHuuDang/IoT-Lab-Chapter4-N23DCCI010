@@ -49,6 +49,11 @@ IoT-Lab-Chapter4-N23DCCI010/
 
 ---
 
+## CI/CD
+- GitHub Actions: xem tab Actions trên GitHub
+- GitLab CI: xem tab CI/CD trên GitLab
+---
+
 ## Ghi chú
 
 Hiện tại một số bài (BT1, BT2, BT4, BT5) chưa hoàn thành do:
