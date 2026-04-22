@@ -1,2 +1,27 @@
 # IoT-Lab-Chapter4-N23DCCI010
 Bài tập IoT Chapter 4 — QEMU + Wokwi + Sense HAT
+# IoT Lab — Chapter 4: Raspberry Pi with Python
+
+
+**Họ tên:** Phạm Văn Hữu Đang
+**MSSV:** N23DCCI010  
+**Lớp:** D23CQCI010-N
+
+
+## Danh sách bài tập
+
+
+| BT | Nền tảng | Thư mục | Trạng thái |
+|---|---|---|---|
+| 1 | QEMU | BT1_QEMU_SystemMonitor/ | Chưa hoàn thành |
+| 2 | QEMU | BT2_QEMU_SensorSim/ | Chưa hoàn thành |
+| 3 | Wokwi | BT3_Wokwi_GPIO/ | Hoàn thành |
+| 4 | Sense HAT | BT4_SenseHAT/ | Chưa hoàn thành |
+| 5 | Tổng hợp | BT5_Integration/ | Chưa hoàn thành |
+
+## Lý do chưa hoàn thành:
+vì cấu hình laptop quá yếu không đáp ứng yêu cầu tối thiểu của 2 phần mềm QEMU và HAT
+
+## CI/CD
+- GitHub Actions: xem tab Actions trên GitHub
+- GitLab CI: xem tab CI/CD trên GitLab
