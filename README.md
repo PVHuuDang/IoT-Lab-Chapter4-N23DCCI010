@@ -37,7 +37,7 @@ IoT-Lab-Chapter4-N23DCCI010/
 
 ---
 
-## 📊 Danh sách bài tập
+## Danh sách bài tập
 
 | BT | Nền tảng  | Thư mục                 | Trạng thái        |
 | -- | --------- | ----------------------- | ----------------|
@@ -68,7 +68,7 @@ Dự án giúp làm quen với:
 
 ---
 
-## 📎 Link repo
+## Link repo
 
-* GitHub: https://github.com/<user>/IoT-Lab-Chapter4-N23DCCI010
-* GitLab: https://gitlab.com/<user>/IoT-Lab-Chapter4-N23DCCI010
+* GitHub: https://github.com/PVHuuDang/IoT-Lab-Chapter4-N23DCCI010
+* GitLab: https://gitlab.com/PVHuuDang/IoT-Lab-Chapter4-N23DCCI010
